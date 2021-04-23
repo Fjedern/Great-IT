@@ -9,8 +9,8 @@
 
 <channel>
 	<title>test</title>
-	<atom:link href="/https://fjedern.github.io/Great-IT/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://fjedern.github.io/Great-IT</link>
+	<atom:link href="http://fjedern.github.io/Great-IT/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fjedern.github.io/Great-IT</link>
 	<description>Ännu en WordPress-webbplats</description>
 	<lastBuildDate>Fri, 23 Apr 2021 12:34:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 
 <image>
-	<url>/https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/cropped-44615382_333511124132035_7799297919227590270_nfull-32x32.jpg</url>
+	<url>http://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/cropped-44615382_333511124132035_7799297919227590270_nfull-32x32.jpg</url>
 	<title>test</title>
-	<link>/https://fjedern.github.io/Great-IT</link>
+	<link>http://fjedern.github.io/Great-IT</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
