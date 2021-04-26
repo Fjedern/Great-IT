@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for test	</title>
-	<atom:link href="http://fjedern.github.io/Great-IT/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://fjedern.github.io/Great-IT</link>
+	<atom:link href="https://fjedern.github.io/Great-IT/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fjedern.github.io/Great-IT</link>
 	<description>Ännu en WordPress-webbplats</description>
 	<lastBuildDate>Fri, 23 Apr 2021 12:34:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
