@@ -12,10 +12,10 @@
 <link rel="stylesheet" id="login-css" href="https://fjedern.github.io/Great-IT/wp-admin/css/login.min.css?ver=5.7.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/cropped-44615382_333511124132035_7799297919227590270_nfull-32x32.jpg" sizes="32x32">
-<link rel="icon" href="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/cropped-44615382_333511124132035_7799297919227590270_nfull-192x192.jpg" sizes="192x192">
-<link rel="apple-touch-icon" href="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/cropped-44615382_333511124132035_7799297919227590270_nfull-180x180.jpg">
-<meta name="msapplication-TileImage" content="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/cropped-44615382_333511124132035_7799297919227590270_nfull-270x270.jpg">
+	<link rel="icon" href="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/greatit_malmo.jpg" sizes="32x32">
+<link rel="icon" href="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/greatit_malmo.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/greatit_malmo.jpg">
+<meta name="msapplication-TileImage" content="https://fjedern.github.io/Great-IT/wp-content/uploads/2021/04/greatit_malmo.jpg">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -96,7 +96,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://fjedern.github.io/Great-IT/wp-includes/js/wp-util.min.js?ver=5.7.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"e08bd827f3"};
+var userProfileL10n = {"user_id":"0","nonce":"88e3b00c17"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
